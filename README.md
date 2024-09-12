@@ -17,6 +17,12 @@ The dataset URL is present in the code because of its huge size I haven't added 
 3. Google Colab
 4. Pandas
 
+## Features
+
+1. CNN Architecture: Implements a Convolutional Neural Network for effective image feature extraction and classification.
+2. Data Handling: Utilizes a dataset of cat and dog images, preprocessed and augmented for improved model performance.
+3. Model Training: Includes training scripts with hyperparameter tuning to optimize model accuracy.
+
 ## Contributing
 
 Feel free to contribute to this project! Please fork the repository and submit a pull request with your changes.
